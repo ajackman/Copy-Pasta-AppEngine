@@ -22,3 +22,4 @@ _testmain.go
 *.sublime-project
 *.exe
 config.go
+.DS_Store
